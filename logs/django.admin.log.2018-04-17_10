@@ -1,0 +1,154 @@
+[2018-04-17 09:33:53,633][WARNING][index_handler.py][IndexHandler][23]> IndexHandler request Handler begin
+[2018-04-17 09:33:53,634][ERROR][index_handler.py][IndexHandler][28]> the page is error with : 1
+[2018-04-17 09:33:53,650][WARNING][index_handler.py][IndexHandler][105]> IndexHandler request Handler end
+[2018-04-17 09:33:53,745][WARNING][basehttp.py][log_message][124]> "GET /static/base/images/logo.png HTTP/1.1" 404 101
+[2018-04-17 09:33:55,367][WARNING][basehttp.py][log_message][124]> "GET /static/uploads/dishao.jpg HTTP/1.1" 404 99
+[2018-04-17 09:33:55,370][WARNING][basehttp.py][log_message][124]> "GET /static/uploads/yinv.jpeg HTTP/1.1" 404 98
+[2018-04-17 09:33:55,371][WARNING][basehttp.py][log_message][124]> "GET /static/uploads/dushi.jpg HTTP/1.1" 404 98
+[2018-04-17 09:33:55,371][WARNING][basehttp.py][log_message][124]> "GET /static/uploads/fudao.jpeg HTTP/1.1" 404 99
+[2018-04-17 09:33:55,371][WARNING][basehttp.py][log_message][124]> "GET /static/uploads/tezhong.jpeg HTTP/1.1" 404 101
+[2018-04-17 09:33:55,371][WARNING][basehttp.py][log_message][124]> "GET /static/uploads/chongsheng.jpeg HTTP/1.1" 404 104
+[2018-04-17 09:33:55,375][WARNING][basehttp.py][log_message][124]> "GET /static/uploads/yaoying_mM1OBk6.jpeg HTTP/1.1" 404 109
+[2018-04-17 09:34:22,027][WARNING][index_handler.py][IndexHandler][23]> IndexHandler request Handler begin
+[2018-04-17 09:34:22,028][ERROR][index_handler.py][IndexHandler][28]> the page is error with : 1
+[2018-04-17 09:34:22,035][WARNING][index_handler.py][IndexHandler][105]> IndexHandler request Handler end
+[2018-04-17 09:34:22,059][WARNING][basehttp.py][log_message][124]> "GET /static/base/images/logo.png HTTP/1.1" 404 101
+[2018-04-17 09:34:22,111][WARNING][basehttp.py][log_message][124]> "GET /static/uploads/chongsheng.jpeg HTTP/1.1" 404 104
+[2018-04-17 09:34:22,112][WARNING][basehttp.py][log_message][124]> "GET /static/uploads/dishao.jpg HTTP/1.1" 404 99
+[2018-04-17 09:34:22,112][WARNING][basehttp.py][log_message][124]> "GET /static/uploads/tezhong.jpeg HTTP/1.1" 404 101
+[2018-04-17 09:34:22,113][WARNING][basehttp.py][log_message][124]> "GET /static/uploads/fudao.jpeg HTTP/1.1" 404 99
+[2018-04-17 09:34:22,113][WARNING][basehttp.py][log_message][124]> "GET /static/uploads/dushi.jpg HTTP/1.1" 404 98
+[2018-04-17 09:34:22,113][WARNING][basehttp.py][log_message][124]> "GET /static/uploads/yinv.jpeg HTTP/1.1" 404 98
+[2018-04-17 09:34:22,117][WARNING][basehttp.py][log_message][124]> "GET /static/uploads/yaoying_mM1OBk6.jpeg HTTP/1.1" 404 109
+[2018-04-17 09:36:09,507][WARNING][index_handler.py][IndexHandler][23]> IndexHandler request Handler begin
+[2018-04-17 09:36:09,507][ERROR][index_handler.py][IndexHandler][28]> the page is error with : 1
+[2018-04-17 09:36:09,517][WARNING][index_handler.py][IndexHandler][105]> IndexHandler request Handler end
+[2018-04-17 09:36:09,539][WARNING][basehttp.py][log_message][124]> "GET /static/base/images/logo.png HTTP/1.1" 404 101
+[2018-04-17 09:36:09,587][WARNING][basehttp.py][log_message][124]> "GET /static/uploads/dushi.jpg HTTP/1.1" 404 98
+[2018-04-17 09:36:09,588][WARNING][basehttp.py][log_message][124]> "GET /static/uploads/tezhong.jpeg HTTP/1.1" 404 101
+[2018-04-17 09:36:09,591][WARNING][basehttp.py][log_message][124]> "GET /static/uploads/fudao.jpeg HTTP/1.1" 404 99
+[2018-04-17 09:36:09,591][WARNING][basehttp.py][log_message][124]> "GET /static/uploads/chongsheng.jpeg HTTP/1.1" 404 104
+[2018-04-17 09:36:09,591][WARNING][basehttp.py][log_message][124]> "GET /static/uploads/dishao.jpg HTTP/1.1" 404 99
+[2018-04-17 09:36:09,596][WARNING][basehttp.py][log_message][124]> "GET /static/uploads/yinv.jpeg HTTP/1.1" 404 98
+[2018-04-17 09:36:09,596][WARNING][basehttp.py][log_message][124]> "GET /static/uploads/yaoying_mM1OBk6.jpeg HTTP/1.1" 404 109
+[2018-04-17 10:03:25,709][WARNING][basehttp.py][log_message][124]> "GET /static/base/images/logo.png HTTP/1.1" 404 101
+[2018-04-17 10:03:25,792][WARNING][basehttp.py][log_message][124]> "GET /static/uploads/yinv.jpeg HTTP/1.1" 404 98
+[2018-04-17 10:06:58,694][WARNING][basehttp.py][log_message][124]> "GET /art/statics HTTP/1.1" 404 85
+[2018-04-17 10:07:36,397][WARNING][basehttp.py][log_message][124]> "GET /art/histogram HTTP/1.1" 404 87
+[2018-04-17 10:07:38,311][WARNING][basehttp.py][log_message][124]> "GET /art/histogram HTTP/1.1" 404 87
+[2018-04-17 10:10:25,247][WARNING][basehttp.py][log_message][124]> "GET /art/histogram HTTP/1.1" 404 87
+[2018-04-17 10:11:03,493][WARNING][basehttp.py][log_message][124]> "GET /art/histogram HTTP/1.1" 404 87
+[2018-04-17 10:11:06,316][WARNING][basehttp.py][log_message][124]> "GET /static/ui/themes/icon.css HTTP/1.1" 404 99
+[2018-04-17 10:11:06,317][WARNING][basehttp.py][log_message][124]> "GET /static/ui/demo/demo.css HTTP/1.1" 404 97
+[2018-04-17 10:11:06,317][WARNING][basehttp.py][log_message][124]> "GET /static/ui/jquery.min.js HTTP/1.1" 404 97
+[2018-04-17 10:11:06,318][WARNING][basehttp.py][log_message][124]> "GET /static/ui/themes/default/easyui.css HTTP/1.1" 404 109
+[2018-04-17 10:11:06,320][WARNING][basehttp.py][log_message][124]> "GET /static/ui/jquery.easyui.min.js HTTP/1.1" 404 104
+[2018-04-17 10:11:06,324][WARNING][basehttp.py][log_message][124]> "GET /static/admin/bower_components/bootstrap/dist/css/bootstrap.min.css HTTP/1.1" 404 140
+[2018-04-17 10:11:06,325][WARNING][basehttp.py][log_message][124]> "GET /static/admin/bower_components/metisMenu/dist/metisMenu.min.css HTTP/1.1" 404 136
+[2018-04-17 10:11:06,328][WARNING][basehttp.py][log_message][124]> "GET /static/admin/bower_components/font-awesome/css/font-awesome.min.css HTTP/1.1" 404 141
+[2018-04-17 10:11:06,329][WARNING][basehttp.py][log_message][124]> "GET /static/admin/dist/css/sb-admin-2.css HTTP/1.1" 404 110
+[2018-04-17 10:11:06,333][WARNING][basehttp.py][log_message][124]> "GET /static/admin/css/common.css HTTP/1.1" 404 101
+[2018-04-17 10:11:06,334][WARNING][basehttp.py][log_message][124]> "GET /static/hchart/highcharts.js HTTP/1.1" 404 101
+[2018-04-17 10:11:06,344][WARNING][basehttp.py][log_message][124]> "GET /static/admin/bower_components/metisMenu/dist/metisMenu.min.js HTTP/1.1" 404 135
+[2018-04-17 10:11:06,344][WARNING][basehttp.py][log_message][124]> "GET /static/hchart/modules/exporting.js HTTP/1.1" 404 108
+[2018-04-17 10:11:06,344][WARNING][basehttp.py][log_message][124]> "GET /static/admin/dist/js/sb-admin-2.js HTTP/1.1" 404 108
+[2018-04-17 10:11:06,346][WARNING][basehttp.py][log_message][124]> "GET /static/admin/bower_components/bootstrap/dist/js/bootstrap.min.js HTTP/1.1" 404 138
+[2018-04-17 10:11:06,346][WARNING][basehttp.py][log_message][124]> "GET /static/admin/bower_components/jquery/dist/jquery.min.js HTTP/1.1" 404 129
+[2018-04-17 10:11:06,347][WARNING][basehttp.py][log_message][124]> "GET /static/admin/ueditor/ueditor.config.js HTTP/1.1" 404 112
+[2018-04-17 10:11:06,351][WARNING][basehttp.py][log_message][124]> "GET /static/admin/ueditor/lang/zh-cn/zh-cn.js HTTP/1.1" 404 114
+[2018-04-17 10:11:06,355][WARNING][basehttp.py][log_message][124]> "GET /static/admin/ueditor/ueditor.all.js HTTP/1.1" 404 109
+[2018-04-17 10:11:06,356][WARNING][basehttp.py][log_message][124]> "GET /static/base/images/logo.png HTTP/1.1" 404 101
+[2018-04-17 10:11:06,357][WARNING][basehttp.py][log_message][124]> "GET /static/admin/bower_components/bootstrap/dist/js/bootstrap.min.js HTTP/1.1" 404 138
+[2018-04-17 10:11:06,360][WARNING][basehttp.py][log_message][124]> "GET /static/admin/bower_components/metisMenu/dist/metisMenu.min.js HTTP/1.1" 404 135
+[2018-04-17 10:11:06,364][WARNING][basehttp.py][log_message][124]> "GET /static/admin/dist/js/sb-admin-2.js HTTP/1.1" 404 108
+[2018-04-17 10:11:06,367][WARNING][basehttp.py][log_message][124]> "GET /static/admin/ueditor/ueditor.config.js HTTP/1.1" 404 112
+[2018-04-17 10:11:06,370][WARNING][basehttp.py][log_message][124]> "GET /static/admin/ueditor/ueditor.all.js HTTP/1.1" 404 109
+[2018-04-17 10:11:06,374][WARNING][basehttp.py][log_message][124]> "GET /static/admin/ueditor/lang/zh-cn/zh-cn.js HTTP/1.1" 404 114
+[2018-04-17 10:11:12,894][WARNING][basehttp.py][log_message][124]> "GET /static/ui/themes/default/easyui.css HTTP/1.1" 404 109
+[2018-04-17 10:11:12,894][WARNING][basehttp.py][log_message][124]> "GET /static/ui/themes/icon.css HTTP/1.1" 404 99
+[2018-04-17 10:11:12,894][WARNING][basehttp.py][log_message][124]> "GET /static/ui/demo/demo.css HTTP/1.1" 404 97
+[2018-04-17 10:11:12,894][WARNING][basehttp.py][log_message][124]> "GET /static/admin/bower_components/bootstrap/dist/css/bootstrap.min.css HTTP/1.1" 404 140
+[2018-04-17 10:11:12,894][WARNING][basehttp.py][log_message][124]> "GET /static/admin/bower_components/metisMenu/dist/metisMenu.min.css HTTP/1.1" 404 136
+[2018-04-17 10:11:12,895][WARNING][basehttp.py][log_message][124]> "GET /static/admin/dist/css/sb-admin-2.css HTTP/1.1" 404 110
+[2018-04-17 10:11:12,904][WARNING][basehttp.py][log_message][124]> "GET /static/admin/bower_components/font-awesome/css/font-awesome.min.css HTTP/1.1" 404 141
+[2018-04-17 10:11:12,904][WARNING][basehttp.py][log_message][124]> "GET /static/admin/css/common.css HTTP/1.1" 404 101
+[2018-04-17 10:11:28,129][WARNING][basehttp.py][log_message][124]> "GET /static/admin/bower_components/bootstrap/dist/css/bootstrap.min.css HTTP/1.1" 404 140
+[2018-04-17 10:11:28,129][WARNING][basehttp.py][log_message][124]> "GET /static/ui/themes/icon.css HTTP/1.1" 404 99
+[2018-04-17 10:11:28,129][WARNING][basehttp.py][log_message][124]> "GET /static/ui/themes/default/easyui.css HTTP/1.1" 404 109
+[2018-04-17 10:11:28,130][WARNING][basehttp.py][log_message][124]> "GET /static/ui/jquery.min.js HTTP/1.1" 404 97
+[2018-04-17 10:11:28,132][WARNING][basehttp.py][log_message][124]> "GET /static/ui/jquery.easyui.min.js HTTP/1.1" 404 104
+[2018-04-17 10:11:28,133][WARNING][basehttp.py][log_message][124]> "GET /static/ui/demo/demo.css HTTP/1.1" 404 97
+[2018-04-17 10:11:28,136][WARNING][basehttp.py][log_message][124]> "GET /static/admin/bower_components/metisMenu/dist/metisMenu.min.css HTTP/1.1" 404 136
+[2018-04-17 10:11:28,138][WARNING][basehttp.py][log_message][124]> "GET /static/admin/dist/css/sb-admin-2.css HTTP/1.1" 404 110
+[2018-04-17 10:11:28,139][WARNING][basehttp.py][log_message][124]> "GET /static/admin/bower_components/font-awesome/css/font-awesome.min.css HTTP/1.1" 404 141
+[2018-04-17 10:11:28,140][WARNING][basehttp.py][log_message][124]> "GET /static/admin/css/common.css HTTP/1.1" 404 101
+[2018-04-17 10:11:28,144][WARNING][basehttp.py][log_message][124]> "GET /static/admin/bower_components/bootstrap/dist/css/bootstrap.min.css HTTP/1.1" 404 140
+[2018-04-17 10:11:28,149][WARNING][basehttp.py][log_message][124]> "GET /static/hchart/highcharts.js HTTP/1.1" 404 101
+[2018-04-17 10:11:28,158][WARNING][basehttp.py][log_message][124]> "GET /static/admin/bower_components/metisMenu/dist/metisMenu.min.js HTTP/1.1" 404 135
+[2018-04-17 10:11:28,161][WARNING][basehttp.py][log_message][124]> "GET /static/hchart/modules/exporting.js HTTP/1.1" 404 108
+[2018-04-17 10:11:28,163][WARNING][basehttp.py][log_message][124]> "GET /static/admin/dist/js/sb-admin-2.js HTTP/1.1" 404 108
+[2018-04-17 10:11:28,163][WARNING][basehttp.py][log_message][124]> "GET /static/admin/bower_components/jquery/dist/jquery.min.js HTTP/1.1" 404 129
+[2018-04-17 10:11:28,163][WARNING][basehttp.py][log_message][124]> "GET /static/admin/bower_components/bootstrap/dist/js/bootstrap.min.js HTTP/1.1" 404 138
+[2018-04-17 10:11:28,165][WARNING][basehttp.py][log_message][124]> "GET /static/admin/ueditor/ueditor.config.js HTTP/1.1" 404 112
+[2018-04-17 10:11:28,169][WARNING][basehttp.py][log_message][124]> "GET /static/admin/ueditor/ueditor.all.js HTTP/1.1" 404 109
+[2018-04-17 10:11:28,172][WARNING][basehttp.py][log_message][124]> "GET /static/base/images/logo.png HTTP/1.1" 404 101
+[2018-04-17 10:11:28,182][WARNING][basehttp.py][log_message][124]> "GET /static/admin/ueditor/lang/zh-cn/zh-cn.js HTTP/1.1" 404 114
+[2018-04-17 10:11:28,184][WARNING][basehttp.py][log_message][124]> "GET /static/admin/bower_components/bootstrap/dist/js/bootstrap.min.js HTTP/1.1" 404 138
+[2018-04-17 10:11:28,189][WARNING][basehttp.py][log_message][124]> "GET /static/admin/bower_components/metisMenu/dist/metisMenu.min.js HTTP/1.1" 404 135
+[2018-04-17 10:11:28,196][WARNING][basehttp.py][log_message][124]> "GET /static/admin/dist/js/sb-admin-2.js HTTP/1.1" 404 108
+[2018-04-17 10:11:28,203][WARNING][basehttp.py][log_message][124]> "GET /static/admin/ueditor/ueditor.config.js HTTP/1.1" 404 112
+[2018-04-17 10:11:28,207][WARNING][basehttp.py][log_message][124]> "GET /static/admin/ueditor/ueditor.all.js HTTP/1.1" 404 109
+[2018-04-17 10:11:28,211][WARNING][basehttp.py][log_message][124]> "GET /static/admin/ueditor/lang/zh-cn/zh-cn.js HTTP/1.1" 404 114
+[2018-04-17 10:11:52,953][WARNING][index_handler.py][IndexHandler][23]> IndexHandler request Handler begin
+[2018-04-17 10:11:52,954][ERROR][index_handler.py][IndexHandler][28]> the page is error with : 1
+[2018-04-17 10:11:52,969][WARNING][index_handler.py][IndexHandler][105]> IndexHandler request Handler end
+[2018-04-17 10:11:53,034][WARNING][basehttp.py][log_message][124]> "GET /static/base/images/logo.png HTTP/1.1" 404 101
+[2018-04-17 10:11:53,622][WARNING][basehttp.py][log_message][124]> "GET /static/uploads/dushi.jpg HTTP/1.1" 404 98
+[2018-04-17 10:11:53,631][WARNING][basehttp.py][log_message][124]> "GET /static/uploads/fudao.jpeg HTTP/1.1" 404 99
+[2018-04-17 10:11:53,631][WARNING][basehttp.py][log_message][124]> "GET /static/uploads/chongsheng.jpeg HTTP/1.1" 404 104
+[2018-04-17 10:12:05,271][WARNING][basehttp.py][log_message][124]> "GET /static/uploads/dishao.jpg HTTP/1.1" 404 99
+[2018-04-17 10:12:05,273][WARNING][basehttp.py][log_message][124]> "GET /static/uploads/tezhong.jpeg HTTP/1.1" 404 101
+[2018-04-17 10:12:05,274][WARNING][basehttp.py][log_message][124]> "GET /static/uploads/yinv.jpeg HTTP/1.1" 404 98
+[2018-04-17 10:12:05,276][WARNING][basehttp.py][log_message][124]> "GET /static/uploads/yaoying_mM1OBk6.jpeg HTTP/1.1" 404 109
+[2018-04-17 10:25:49,604][WARNING][index_handler.py][IndexHandler][23]> IndexHandler request Handler begin
+[2018-04-17 10:25:49,604][ERROR][index_handler.py][IndexHandler][28]> the page is error with : 1
+[2018-04-17 10:25:49,611][WARNING][index_handler.py][IndexHandler][105]> IndexHandler request Handler end
+[2018-04-17 10:25:49,642][WARNING][basehttp.py][log_message][124]> "GET /static/base/images/logo.png HTTP/1.1" 404 101
+[2018-04-17 10:25:49,739][WARNING][basehttp.py][log_message][124]> "GET /static/uploads/chongsheng.jpeg HTTP/1.1" 404 104
+[2018-04-17 10:25:49,740][WARNING][basehttp.py][log_message][124]> "GET /static/uploads/dushi.jpg HTTP/1.1" 404 98
+[2018-04-17 10:25:49,740][WARNING][basehttp.py][log_message][124]> "GET /static/uploads/fudao.jpeg HTTP/1.1" 404 99
+[2018-04-17 11:01:07,939][WARNING][basehttp.py][log_message][124]> "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 404 122
+[2018-04-17 11:01:07,940][WARNING][basehttp.py][log_message][124]> "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 404 113
+[2018-04-17 11:01:07,942][WARNING][basehttp.py][log_message][124]> "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 404 107
+[2018-04-17 11:01:07,953][WARNING][basehttp.py][log_message][124]> "GET /static/xadmin/vendor/font-awesome/css/font-awesome.min.css HTTP/1.1" 404 132
+[2018-04-17 11:01:07,956][WARNING][basehttp.py][log_message][124]> "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 404 110
+[2018-04-17 11:01:07,960][WARNING][basehttp.py][log_message][124]> "GET /static/xadmin/css/xadmin.page.dashboard.css HTTP/1.1" 404 117
+[2018-04-17 11:01:07,962][WARNING][basehttp.py][log_message][124]> "GET /static/xadmin/vendor/jquery/jquery.min.js HTTP/1.1" 404 115
+[2018-04-17 11:01:07,988][WARNING][basehttp.py][log_message][124]> "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.min.js HTTP/1.1" 404 126
+[2018-04-17 11:01:07,990][WARNING][basehttp.py][log_message][124]> "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.min.js HTTP/1.1" 404 128
+[2018-04-17 11:01:07,992][WARNING][basehttp.py][log_message][124]> "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.min.js HTTP/1.1" 404 127
+[2018-04-17 11:01:07,995][WARNING][basehttp.py][log_message][124]> "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.min.js HTTP/1.1" 404 130
+[2018-04-17 11:01:07,998][WARNING][basehttp.py][log_message][124]> "GET /static/xadmin/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 404 124
+[2018-04-17 11:01:08,005][WARNING][basehttp.py][log_message][124]> "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 404 105
+[2018-04-17 11:01:08,016][WARNING][basehttp.py][log_message][124]> "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 404 111
+[2018-04-17 11:01:08,020][WARNING][basehttp.py][log_message][124]> "GET /static/xadmin/vendor/jquery-ui/jquery.ui.effect.min.js HTTP/1.1" 404 128
+[2018-04-17 11:01:08,028][WARNING][basehttp.py][log_message][124]> "GET /static/xadmin/js/xadmin.plugin.themes.js HTTP/1.1" 404 114
+[2018-04-17 11:01:08,029][WARNING][basehttp.py][log_message][124]> "GET /static/xadmin/js/xadmin.page.dashboard.js HTTP/1.1" 404 115
+[2018-04-17 11:01:08,029][WARNING][basehttp.py][log_message][124]> "GET /static/xadmin/js/xadmin.plugin.portal.js HTTP/1.1" 404 114
+[2018-04-17 11:01:08,037][WARNING][basehttp.py][log_message][124]> "GET /static/xadmin/js/xadmin.page.dashboard.js HTTP/1.1" 404 115
+[2018-04-17 11:01:08,040][WARNING][basehttp.py][log_message][124]> "GET /static/xadmin/js/xadmin.plugin.portal.js HTTP/1.1" 404 114
+[2018-04-17 11:01:08,856][WARNING][basehttp.py][log_message][124]> "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.min.js HTTP/1.1" 404 126
+[2018-04-17 11:01:08,862][WARNING][basehttp.py][log_message][124]> "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.min.js HTTP/1.1" 404 128
+[2018-04-17 11:01:08,868][WARNING][basehttp.py][log_message][124]> "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.min.js HTTP/1.1" 404 127
+[2018-04-17 11:01:08,873][WARNING][basehttp.py][log_message][124]> "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.min.js HTTP/1.1" 404 130
+[2018-04-17 11:01:08,878][WARNING][basehttp.py][log_message][124]> "GET /static/xadmin/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 404 124
+[2018-04-17 11:01:08,883][WARNING][basehttp.py][log_message][124]> "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 404 105
+[2018-04-17 11:01:08,889][WARNING][basehttp.py][log_message][124]> "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 404 111
+[2018-04-17 11:01:08,894][WARNING][basehttp.py][log_message][124]> "GET /static/xadmin/vendor/jquery-ui/jquery.ui.effect.min.js HTTP/1.1" 404 128
+[2018-04-17 11:01:08,899][WARNING][basehttp.py][log_message][124]> "GET /static/xadmin/js/xadmin.plugin.themes.js HTTP/1.1" 404 114
+[2018-04-17 11:01:20,391][WARNING][basehttp.py][log_message][124]> "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 404 113
+[2018-04-17 11:01:20,391][WARNING][basehttp.py][log_message][124]> "GET /static/xadmin/vendor/font-awesome/css/font-awesome.min.css HTTP/1.1" 404 132
+[2018-04-17 11:01:20,391][WARNING][basehttp.py][log_message][124]> "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 404 110
+[2018-04-17 11:01:20,391][WARNING][basehttp.py][log_message][124]> "GET /static/xadmin/css/xadmin.page.dashboard.css HTTP/1.1" 404 117
+[2018-04-17 11:01:20,391][WARNING][basehttp.py][log_message][124]> "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 404 107
+[2018-04-17 11:01:20,392][WARNING][basehttp.py][log_message][124]> "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 404 122

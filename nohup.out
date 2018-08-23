@@ -1,0 +1,89 @@
+[2018-04-17 15:06:54 +0800] [123021] [INFO] Starting gunicorn 19.7.1
+[2018-04-17 15:06:54 +0800] [123021] [INFO] Listening at: http://0.0.0.0:9000 (123021)
+[2018-04-17 15:06:54 +0800] [123021] [INFO] Using worker: sync
+[2018-04-17 15:06:54 +0800] [123027] [INFO] Booting worker with pid: 123027
+[2018-04-17 15:06:54 +0800] [123029] [INFO] Booting worker with pid: 123029
+[WARNING]> IndexHandler request Handler begin
+[ERROR]> the page is error with : 1
+[DEBUG]> the param page 1, tag:0
+[DEBUG]> (0.000) SELECT @@SQL_AUTO_IS_NULL; args=None
+[DEBUG]> (0.001) SELECT COUNT(*) AS `__count` FROM `art_art`; args=()
+[DEBUG]> query total:7, t:0, page:1
+[WARNING]> IndexHandler request Handler end
+[DEBUG]> (0.001) SELECT `art_tag`.`id`, `art_tag`.`t_name`, `art_tag`.`t_info`, `art_tag`.`t_createtime` FROM `art_tag`; args=()
+[DEBUG]> (0.002) SELECT `art_art`.`id`, `art_art`.`a_title`, `art_art`.`a_info`, `art_art`.`a_content`, `art_art`.`a_img`, `art_art`.`a_addtime`, `art_art`.`a_updatetime`, `art_art`.`a_tag_id` FROM `art_art` ORDER BY `art_art`.`a_addtime` DESC LIMIT 20; args=()
+[WARNING]> IndexHandler request Handler begin
+[ERROR]> the page is error with : 1
+[DEBUG]> the param page 1, tag:0
+[DEBUG]> (0.001) SELECT COUNT(*) AS `__count` FROM `art_art`; args=()
+[DEBUG]> query total:7, t:0, page:1
+[WARNING]> IndexHandler request Handler end
+[DEBUG]> (0.001) SELECT `art_tag`.`id`, `art_tag`.`t_name`, `art_tag`.`t_info`, `art_tag`.`t_createtime` FROM `art_tag`; args=()
+[DEBUG]> (0.002) SELECT `art_art`.`id`, `art_art`.`a_title`, `art_art`.`a_info`, `art_art`.`a_content`, `art_art`.`a_img`, `art_art`.`a_addtime`, `art_art`.`a_updatetime`, `art_art`.`a_tag_id` FROM `art_art` ORDER BY `art_art`.`a_addtime` DESC LIMIT 20; args=()
+[WARNING]> IndexHandler request Handler begin
+[ERROR]> the page is error with : 1
+[DEBUG]> the param page 1, tag:0
+[DEBUG]> (0.000) SELECT @@SQL_AUTO_IS_NULL; args=None
+[DEBUG]> (0.000) SELECT COUNT(*) AS `__count` FROM `art_art`; args=()
+[DEBUG]> query total:7, t:0, page:1
+[WARNING]> IndexHandler request Handler end
+[DEBUG]> (0.001) SELECT `art_tag`.`id`, `art_tag`.`t_name`, `art_tag`.`t_info`, `art_tag`.`t_createtime` FROM `art_tag`; args=()
+[DEBUG]> (0.001) SELECT `art_art`.`id`, `art_art`.`a_title`, `art_art`.`a_info`, `art_art`.`a_content`, `art_art`.`a_img`, `art_art`.`a_addtime`, `art_art`.`a_updatetime`, `art_art`.`a_tag_id` FROM `art_art` ORDER BY `art_art`.`a_addtime` DESC LIMIT 20; args=()
+[WARNING]> IndexHandler request Handler begin
+[ERROR]> the page is error with : 1
+[DEBUG]> the param page 1, tag:0
+[DEBUG]> (0.000) SELECT COUNT(*) AS `__count` FROM `art_art`; args=()
+[DEBUG]> query total:7, t:0, page:1
+[WARNING]> IndexHandler request Handler end
+[DEBUG]> (0.000) SELECT `art_tag`.`id`, `art_tag`.`t_name`, `art_tag`.`t_info`, `art_tag`.`t_createtime` FROM `art_tag`; args=()
+[DEBUG]> (0.002) SELECT `art_art`.`id`, `art_art`.`a_title`, `art_art`.`a_info`, `art_art`.`a_content`, `art_art`.`a_img`, `art_art`.`a_addtime`, `art_art`.`a_updatetime`, `art_art`.`a_tag_id` FROM `art_art` ORDER BY `art_art`.`a_addtime` DESC LIMIT 20; args=()
+[WARNING]> IndexHandler request Handler begin
+[ERROR]> the page is error with : 1
+[DEBUG]> the param page 1, tag:0
+[DEBUG]> (0.000) SELECT COUNT(*) AS `__count` FROM `art_art`; args=()
+[DEBUG]> query total:7, t:0, page:1
+[WARNING]> IndexHandler request Handler end
+[DEBUG]> (0.001) SELECT `art_tag`.`id`, `art_tag`.`t_name`, `art_tag`.`t_info`, `art_tag`.`t_createtime` FROM `art_tag`; args=()
+[DEBUG]> (0.001) SELECT `art_art`.`id`, `art_art`.`a_title`, `art_art`.`a_info`, `art_art`.`a_content`, `art_art`.`a_img`, `art_art`.`a_addtime`, `art_art`.`a_updatetime`, `art_art`.`a_tag_id` FROM `art_art` ORDER BY `art_art`.`a_addtime` DESC LIMIT 20; args=()
+[WARNING]> IndexHandler request Handler begin
+[ERROR]> the page is error with : 1
+[DEBUG]> the param page 1, tag:0
+[DEBUG]> (0.000) SELECT COUNT(*) AS `__count` FROM `art_art`; args=()
+[DEBUG]> query total:7, t:0, page:1
+[WARNING]> IndexHandler request Handler end
+[DEBUG]> (0.002) SELECT `art_tag`.`id`, `art_tag`.`t_name`, `art_tag`.`t_info`, `art_tag`.`t_createtime` FROM `art_tag`; args=()
+[DEBUG]> (0.002) SELECT `art_art`.`id`, `art_art`.`a_title`, `art_art`.`a_info`, `art_art`.`a_content`, `art_art`.`a_img`, `art_art`.`a_addtime`, `art_art`.`a_updatetime`, `art_art`.`a_tag_id` FROM `art_art` ORDER BY `art_art`.`a_addtime` DESC LIMIT 20; args=()
+[WARNING]> IndexHandler request Handler begin
+[ERROR]> the page is error with : 1
+[DEBUG]> the param page 1, tag:1
+[DEBUG]> (0.000) SELECT VERSION(); args=None
+[DEBUG]> (0.002) SELECT COUNT(*) AS `__count` FROM `art_art` WHERE `art_art`.`a_tag_id` = 1; args=(1,)
+[DEBUG]> query total:6, t:1, page:1
+[WARNING]> IndexHandler request Handler end
+[DEBUG]> (0.001) SELECT `art_tag`.`id`, `art_tag`.`t_name`, `art_tag`.`t_info`, `art_tag`.`t_createtime` FROM `art_tag`; args=()
+[DEBUG]> (0.001) SELECT `art_art`.`id`, `art_art`.`a_title`, `art_art`.`a_info`, `art_art`.`a_content`, `art_art`.`a_img`, `art_art`.`a_addtime`, `art_art`.`a_updatetime`, `art_art`.`a_tag_id` FROM `art_art` WHERE `art_art`.`a_tag_id` = 1 ORDER BY `art_art`.`a_addtime` DESC LIMIT 20; args=(1,)
+[WARNING]> IndexHandler request Handler begin
+[ERROR]> the page is error with : 1
+[DEBUG]> the param page 1, tag:2
+[DEBUG]> (0.000) SELECT VERSION(); args=None
+[DEBUG]> (0.001) SELECT COUNT(*) AS `__count` FROM `art_art` WHERE `art_art`.`a_tag_id` = 2; args=(2,)
+[DEBUG]> query total:1, t:2, page:1
+[WARNING]> IndexHandler request Handler end
+[DEBUG]> (0.001) SELECT `art_tag`.`id`, `art_tag`.`t_name`, `art_tag`.`t_info`, `art_tag`.`t_createtime` FROM `art_tag`; args=()
+[DEBUG]> (0.001) SELECT `art_art`.`id`, `art_art`.`a_title`, `art_art`.`a_info`, `art_art`.`a_content`, `art_art`.`a_img`, `art_art`.`a_addtime`, `art_art`.`a_updatetime`, `art_art`.`a_tag_id` FROM `art_art` WHERE `art_art`.`a_tag_id` = 2 ORDER BY `art_art`.`a_addtime` DESC LIMIT 20; args=(2,)
+[WARNING]> IndexHandler request Handler begin
+[ERROR]> the page is error with : 1
+[DEBUG]> the param page 1, tag:0
+[DEBUG]> (0.001) SELECT COUNT(*) AS `__count` FROM `art_art`; args=()
+[DEBUG]> query total:7, t:0, page:1
+[WARNING]> IndexHandler request Handler end
+[DEBUG]> (0.000) SELECT `art_tag`.`id`, `art_tag`.`t_name`, `art_tag`.`t_info`, `art_tag`.`t_createtime` FROM `art_tag`; args=()
+[DEBUG]> (0.001) SELECT `art_art`.`id`, `art_art`.`a_title`, `art_art`.`a_info`, `art_art`.`a_content`, `art_art`.`a_img`, `art_art`.`a_addtime`, `art_art`.`a_updatetime`, `art_art`.`a_tag_id` FROM `art_art` ORDER BY `art_art`.`a_addtime` DESC LIMIT 20; args=()
+[WARNING]> IndexHandler request Handler begin
+[ERROR]> the page is error with : 1
+[DEBUG]> the param page 1, tag:0
+[DEBUG]> (0.001) SELECT COUNT(*) AS `__count` FROM `art_art`; args=()
+[DEBUG]> query total:7, t:0, page:1
+[WARNING]> IndexHandler request Handler end
+[DEBUG]> (0.001) SELECT `art_tag`.`id`, `art_tag`.`t_name`, `art_tag`.`t_info`, `art_tag`.`t_createtime` FROM `art_tag`; args=()
+[DEBUG]> (0.001) SELECT `art_art`.`id`, `art_art`.`a_title`, `art_art`.`a_info`, `art_art`.`a_content`, `art_art`.`a_img`, `art_art`.`a_addtime`, `art_art`.`a_updatetime`, `art_art`.`a_tag_id` FROM `art_art` ORDER BY `art_art`.`a_addtime` DESC LIMIT 20; args=()

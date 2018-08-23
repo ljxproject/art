@@ -1,0 +1,9 @@
+2018-04-17 15:58:50,503 INFO daemonizing the supervisord process
+2018-04-17 15:58:50,504 INFO supervisord started with pid 124784
+2018-04-17 15:58:51,509 INFO spawned: 'art-1' with pid 124788
+2018-04-17 15:58:51,512 INFO spawned: 'art-2' with pid 124789
+2018-04-17 15:58:52,705 INFO success: art-1 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-04-17 15:58:52,705 INFO success: art-2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-04-17 16:04:16,024 INFO exited: art-1 (terminated by SIGKILL; not expected)
+2018-04-17 16:04:17,028 INFO spawned: 'art-1' with pid 124966
+2018-04-17 16:04:18,208 INFO success: art-1 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)

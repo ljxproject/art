@@ -1,0 +1,13 @@
+[2018-04-17 15:58:51 +0800] [124789] [INFO] Starting gunicorn 19.7.1
+[2018-04-17 15:58:51 +0800] [124789] [INFO] Listening at: http://0.0.0.0:9002 (124789)
+[2018-04-17 15:58:51 +0800] [124789] [INFO] Using worker: sync
+[2018-04-17 15:58:51 +0800] [124794] [INFO] Booting worker with pid: 124794
+[WARNING]> IndexHandler request Handler begin
+[ERROR]> the page is error with : 1
+[DEBUG]> the param page 1, tag:0
+[DEBUG]> (0.001) SELECT @@SQL_AUTO_IS_NULL; args=None
+[DEBUG]> (0.001) SELECT COUNT(*) AS `__count` FROM `art_art`; args=()
+[DEBUG]> query total:7, t:0, page:1
+[WARNING]> IndexHandler request Handler end
+[DEBUG]> (0.001) SELECT `art_tag`.`id`, `art_tag`.`t_name`, `art_tag`.`t_info`, `art_tag`.`t_createtime` FROM `art_tag`; args=()
+[DEBUG]> (0.001) SELECT `art_art`.`id`, `art_art`.`a_title`, `art_art`.`a_info`, `art_art`.`a_content`, `art_art`.`a_img`, `art_art`.`a_addtime`, `art_art`.`a_updatetime`, `art_art`.`a_tag_id` FROM `art_art` ORDER BY `art_art`.`a_addtime` DESC LIMIT 20; args=()
